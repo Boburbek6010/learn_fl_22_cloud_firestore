@@ -1,0 +1,25 @@
+name: learn_fl_22_cloud_firestore
+description: "A new Flutter project for FL 22"
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.25.4
+  cloud_firestore: ^4.15.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true

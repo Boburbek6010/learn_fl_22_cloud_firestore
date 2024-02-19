@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974393354551",
+    "project_id": "learn-database-25308",
+    "storage_bucket": "learn-database-25308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974393354551:android:d94a26dc17368ba7c612b2",
+        "android_client_info": {
+          "package_name": "com.pdp.learn_fl_22_cloud_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNuVnlAAwnzS3g4-JsulTUXDs65KGVUHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
